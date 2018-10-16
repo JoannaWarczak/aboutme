@@ -1,0 +1,29 @@
+/*Section header*/
+
+.O-mnie {
+   background: #01101d;
+}
+
+.section-header {
+   text-align: center;
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 70px 40px;
+}
+
+.section-header p {
+   margin: 0px;
+}
+
+.section-header h4 {
+   margin-top: 0;
+   margin-bottom: 22px;
+   font-size: 25px;
+   color: #044153;
+}
+
+@media (max-width: 320px) {
+   .section-header {
+      padding: 50px 40px;
+   }
+}
